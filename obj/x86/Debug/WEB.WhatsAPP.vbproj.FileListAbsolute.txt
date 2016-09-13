@@ -1,0 +1,12 @@
+D:\# CODING\0. VB.NET\1. Мои Проекты\2. VS 2015\WhatsApp Agent\bin\Debug\WhatsApp Agent.exe
+D:\# CODING\0. VB.NET\1. Мои Проекты\2. VS 2015\WhatsApp Agent\bin\Debug\WhatsApp Agent.pdb
+D:\# CODING\0. VB.NET\1. Мои Проекты\2. VS 2015\WhatsApp Agent\bin\Debug\WhatsApp Agent.xml
+D:\# CODING\0. VB.NET\1. Мои Проекты\2. VS 2015\WhatsApp Agent\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\# CODING\0. VB.NET\1. Мои Проекты\2. VS 2015\WhatsApp Agent\bin\Debug\ru\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+D:\# CODING\0. VB.NET\1. Мои Проекты\2. VS 2015\WhatsApp Agent\obj\x86\Debug\WEB.WhatsAPP.vbprojResolveAssemblyReference.cache
+D:\# CODING\0. VB.NET\1. Мои Проекты\2. VS 2015\WhatsApp Agent\obj\x86\Debug\WhatsAppAgent.MainWindow.resources
+D:\# CODING\0. VB.NET\1. Мои Проекты\2. VS 2015\WhatsApp Agent\obj\x86\Debug\WhatsAppAgent.Resources.resources
+D:\# CODING\0. VB.NET\1. Мои Проекты\2. VS 2015\WhatsApp Agent\obj\x86\Debug\WEB.WhatsAPP.vbproj.GenerateResource.Cache
+D:\# CODING\0. VB.NET\1. Мои Проекты\2. VS 2015\WhatsApp Agent\obj\x86\Debug\WhatsApp Agent.exe
+D:\# CODING\0. VB.NET\1. Мои Проекты\2. VS 2015\WhatsApp Agent\obj\x86\Debug\WhatsApp Agent.xml
+D:\# CODING\0. VB.NET\1. Мои Проекты\2. VS 2015\WhatsApp Agent\obj\x86\Debug\WhatsApp Agent.pdb

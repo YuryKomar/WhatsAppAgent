@@ -1,0 +1,42 @@
+Z:\07 CODING\0. VB.NET\1. Мои Проекты\1. VS 2010\WEB.WhatsAPP\bin\Release\WhatsApp Agent.exe
+Z:\07 CODING\0. VB.NET\1. Мои Проекты\1. VS 2010\WEB.WhatsAPP\bin\Release\WhatsApp Agent.pdb
+Z:\07 CODING\0. VB.NET\1. Мои Проекты\1. VS 2010\WEB.WhatsAPP\bin\Release\WhatsApp Agent.xml
+Z:\07 CODING\0. VB.NET\1. Мои Проекты\1. VS 2010\WEB.WhatsAPP\obj\x86\Release\WhatsAppAgent.MainWindow.resources
+Z:\07 CODING\0. VB.NET\1. Мои Проекты\1. VS 2010\WEB.WhatsAPP\obj\x86\Release\WhatsAppAgent.Resources.resources
+Z:\07 CODING\0. VB.NET\1. Мои Проекты\1. VS 2010\WEB.WhatsAPP\obj\x86\Release\WEB.WhatsAPP.vbproj.GenerateResource.Cache
+Z:\07 CODING\0. VB.NET\1. Мои Проекты\1. VS 2010\WEB.WhatsAPP\obj\x86\Release\WhatsApp Agent.exe
+Z:\07 CODING\0. VB.NET\1. Мои Проекты\1. VS 2010\WEB.WhatsAPP\obj\x86\Release\WhatsApp Agent.xml
+Z:\07 CODING\0. VB.NET\1. Мои Проекты\1. VS 2010\WEB.WhatsAPP\obj\x86\Release\WhatsApp Agent.pdb
+C:\Users\Yury Komar\Desktop\WEB.WhatsAPP\obj\x86\Release\WhatsApp Agent.exe
+C:\Users\Yury Komar\Desktop\WEB.WhatsAPP\obj\x86\Release\WhatsApp Agent.xml
+C:\Users\Yury Komar\Desktop\WEB.WhatsAPP\obj\x86\Release\WhatsApp Agent.pdb
+C:\Users\Yury Komar\Desktop\WEB.WhatsAPP\bin\Release\WhatsApp Agent.exe
+C:\Users\Yury Komar\Desktop\WEB.WhatsAPP\bin\Release\WhatsApp Agent.pdb
+C:\Users\Yury Komar\Desktop\WEB.WhatsAPP\bin\Release\WhatsApp Agent.xml
+C:\Users\Yury Komar\Desktop\WEB.WhatsAPP\obj\x86\Release\WEB.WhatsAPP.vbprojResolveAssemblyReference.cache
+C:\Users\Yury Komar\Desktop\WEB.WhatsAPP\obj\x86\Release\WhatsAppAgent.MainWindow.resources
+C:\Users\Yury Komar\Desktop\WEB.WhatsAPP\obj\x86\Release\WhatsAppAgent.Resources.resources
+C:\Users\Yury Komar\Desktop\WEB.WhatsAPP\obj\x86\Release\WEB.WhatsAPP.vbproj.GenerateResource.Cache
+Z:\07 CODING\0. VB.NET\1. Мои Проекты\2. VS 2015\WEB.WhatsAPP\obj\x86\Release\WhatsApp Agent.exe
+Z:\07 CODING\0. VB.NET\1. Мои Проекты\2. VS 2015\WEB.WhatsAPP\obj\x86\Release\WhatsApp Agent.xml
+Z:\07 CODING\0. VB.NET\1. Мои Проекты\2. VS 2015\WEB.WhatsAPP\obj\x86\Release\WhatsApp Agent.pdb
+Z:\07 CODING\0. VB.NET\1. Мои Проекты\2. VS 2015\WEB.WhatsAPP\bin\Release\WhatsApp Agent.exe
+Z:\07 CODING\0. VB.NET\1. Мои Проекты\2. VS 2015\WEB.WhatsAPP\bin\Release\WhatsApp Agent.pdb
+Z:\07 CODING\0. VB.NET\1. Мои Проекты\2. VS 2015\WEB.WhatsAPP\bin\Release\WhatsApp Agent.xml
+Z:\07 CODING\0. VB.NET\1. Мои Проекты\2. VS 2015\WEB.WhatsAPP\obj\x86\Release\WEB.WhatsAPP.vbprojResolveAssemblyReference.cache
+Z:\07 CODING\0. VB.NET\1. Мои Проекты\2. VS 2015\WEB.WhatsAPP\obj\x86\Release\WhatsAppAgent.MainWindow.resources
+Z:\07 CODING\0. VB.NET\1. Мои Проекты\2. VS 2015\WEB.WhatsAPP\obj\x86\Release\WhatsAppAgent.Resources.resources
+Z:\07 CODING\0. VB.NET\1. Мои Проекты\2. VS 2015\WEB.WhatsAPP\obj\x86\Release\WEB.WhatsAPP.vbproj.GenerateResource.Cache
+M:\07 CODING\0. VB.NET\1. Мои Проекты\1. VS 2010\WEB.WhatsAPP\obj\x86\Release\WhatsApp Agent.exe
+M:\07 CODING\0. VB.NET\1. Мои Проекты\1. VS 2010\WEB.WhatsAPP\obj\x86\Release\WhatsApp Agent.xml
+M:\07 CODING\0. VB.NET\1. Мои Проекты\1. VS 2010\WEB.WhatsAPP\obj\x86\Release\WhatsApp Agent.pdb
+M:\07 CODING\0. VB.NET\1. Мои Проекты\1. VS 2010\WEB.WhatsAPP\bin\Release\WhatsApp Agent.exe
+M:\07 CODING\0. VB.NET\1. Мои Проекты\1. VS 2010\WEB.WhatsAPP\bin\Release\WhatsApp Agent.pdb
+M:\07 CODING\0. VB.NET\1. Мои Проекты\1. VS 2010\WEB.WhatsAPP\bin\Release\WhatsApp Agent.xml
+M:\07 CODING\0. VB.NET\1. Мои Проекты\1. VS 2010\WEB.WhatsAPP\obj\x86\Release\WEB.WhatsAPP.vbprojResolveAssemblyReference.cache
+M:\07 CODING\0. VB.NET\1. Мои Проекты\1. VS 2010\WEB.WhatsAPP\obj\x86\Release\WhatsAppAgent.MainWindow.resources
+M:\07 CODING\0. VB.NET\1. Мои Проекты\1. VS 2010\WEB.WhatsAPP\obj\x86\Release\WhatsAppAgent.Resources.resources
+M:\07 CODING\0. VB.NET\1. Мои Проекты\1. VS 2010\WEB.WhatsAPP\obj\x86\Release\WEB.WhatsAPP.vbproj.GenerateResource.Cache
+C:\Users\Yury Komar\Desktop\WhatsAPP Agent\obj\x86\Release\WhatsApp Agent.exe
+C:\Users\Yury Komar\Desktop\WhatsAPP Agent\obj\x86\Release\WhatsApp Agent.xml
+C:\Users\Yury Komar\Desktop\WhatsAPP Agent\obj\x86\Release\WhatsApp Agent.pdb

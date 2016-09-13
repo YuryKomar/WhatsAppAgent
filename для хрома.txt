@@ -1,0 +1,3 @@
+HKEY_CLASSES_ROOT\ChromeHTML.3GXWFLJFP5EUJHYMENPQYBGBCM\shell\open\command
+
+"C:\Users\Yury A. Komar\AppData\Local\Google\Chrome\Application\chrome.exe" -- "%1"
